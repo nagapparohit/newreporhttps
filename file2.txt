@@ -1,0 +1,2 @@
+some text in file2
+line 2 added
